@@ -1,0 +1,2 @@
+# Chr-test
+Cuma testnet
